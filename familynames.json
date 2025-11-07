@@ -565,6 +565,7 @@
 		{ "nom" :  "Tagadiou", "ethnie" : " Dogon" ,"description": ""},
 		{ "nom" :  "Tagoudiou", "ethnie" : " Dogon" ,"description": ""},
 		{ "nom" :  "Tahar", "ethnie" : " " ,"description": ""},
+		{ "nom" :  "Taïta", "ethnie" : "Bozo " ,"description": ""},
 		{ "nom" :  "Tall", "ethnie" : " Toucouleur" ,"description": ""},
 		{ "nom" :  "Tamata", "ethnie" : " Soninké" ,"description": ""},
 		{ "nom" :  "Tambadou", "ethnie" : " Diagoromé " ,"description": ""},
@@ -655,3 +656,4 @@
 		]  
 	
 	
+
