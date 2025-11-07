@@ -638,7 +638,7 @@
 		{ "nom" :  "Yaressi", "ethnie" : " Soninké" ,"description": ""},
 		{ "nom" :  "Yaro", "ethnie" : " Samogo, Bo " ,"description": ""},
 		{ "nom" :  "Yattara", "ethnie" : " Diagoromé " ,"description": ""},
-		{ "nom" :  "Yattassaye", "ethnie" : " Diagoromé " ,"description": ""},
+		{ "nom" :  "Yattassaye", "ethnie" : " Diagoromé, Peulh, Bèlla " ,"description": ""},
 		{ "nom" :  "Yébédie/Yebezié", "ethnie" : " Dogon" ,"description": ""},
 		{ "nom" :  "Yéna", "ethnie" : " Bozo" ,"description": ""},
 		{ "nom" :  "Yérélé", "ethnie" : " Griot" ,"description": ""},
@@ -656,4 +656,5 @@
 		]  
 	
 	
+
 
